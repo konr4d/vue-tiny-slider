@@ -1,6 +1,6 @@
 {
   "name": "vue-tiny-slider",
-  "version": "0.1.34",
+  "version": "0.1.38",
   "description": "Vanilla javascript slider for all purposes created by ganlanyuan in Vue.",
   "main": "./dist/index.js",
   "scripts": {
@@ -26,7 +26,7 @@
   "homepage": "https://github.com/viktorlarsson/vue-tiny-slider#readme",
   "dependencies": {
     "lodash": "^4.17.11",
-    "tiny-slider": "^2.9.1"
+    "tiny-slider": "^2.9.2"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
